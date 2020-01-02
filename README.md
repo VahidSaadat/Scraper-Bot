@@ -1,6 +1,6 @@
 ## Scraper Bot
 
-This simple bot scape last-events of [Kashan University site](https://kashanu.ac.ir/fa) and send them through telegram-bot
+This simple bot scrapes recent events of [Kashan University](https://kashanu.ac.ir/fa) and send them to it's subscribers
 
 
 ## requirement packages
